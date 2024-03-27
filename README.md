@@ -16,3 +16,6 @@ Used for Learn with Pokémon: Typing Adventure:
 Used for Pokémon Conquest:
 * **conquest.py** - Parses out text from .dat files and outputs txt files.
 * **msgdat.py** - Parses a MSG.DAT file and outputs txt files.
+
+Used for Pokémon Trozei:
+* **trozei.py** - Parses a MSG file and outputs a txt file.
