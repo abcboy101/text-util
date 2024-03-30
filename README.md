@@ -19,3 +19,6 @@ Used for Pokémon Conquest:
 
 Used for Pokémon Trozei:
 * **trozei.py** - Parses a MSG file and outputs a txt file.
+
+Used for Touzoku to 1000-biki no Pokémon:
+* **btxt.py** - Parses a BTXT file and outputs a txt file, or vice-versa.
